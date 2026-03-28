@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Hệ thống Quản lý Tài liệu \u0026 Chat AI",
+  "description": "Ứng dụng đọc file PDF từ Google Drive và chat với AI dựa trên nội dung tài liệu.",
+  "requestFramePermissions": []
+}
